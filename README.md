@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shireesha.aellikanti@outlook.com**
 
-- 📄 Know about my experiences  linkedin.com/in/shireesha-aellikanti-218045231
+- 📄 Know about my experiences https://www.linkedin.com/in/shireesha-aellikanti-218045231/
 
 - ⚡ Fun fact **smart work**
 
