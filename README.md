@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pro-adventureshireesha]
+- 👨‍💻 All of my projects are available at https://github.com/adventureshireesha/adventureshireesha
 
-- 📝 I regularly write code on [Data Preprocessing and Structuring Data]
+- 📝 I regularly write code on Data Preprocessing and Structuring Data
 
 - 💬 Ask me about **Python Data Science and Statistical data analysis**
 
 - 📫 How to reach me **shireesha.aellikanti@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/shireesha-aellikanti-218045231]
+- 📄 Know about my experiences linkedin.com/in/shireesha-aellikanti-218045231
 
 - ⚡ Fun fact **smart work**
 
