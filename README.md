@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shireesha Aellikanti</h1>
 <h3 align="center">Savvy Data Analyst</h3>
 <h3 align="centre">Savvy Python Data Analyst and Machine Learning Practitioner</h3>
-<p align="right" width="250"> <img src="https://camo.githubusercontent.com/10d75f82d190241737b22f9a224a9e8d215bb274e5151509048175ee26e1b6a7/68747470733a2f2f75706c696674636f72726563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f35353533372d6769726c2d6f6e2d636f6d70757465722d776974682d696465612e676966"alt="Pythonjulia"/> </p>
+<p align="right" width="800"> <img src="https://camo.githubusercontent.com/10d75f82d190241737b22f9a224a9e8d215bb274e5151509048175ee26e1b6a7/68747470733a2f2f75706c696674636f72726563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f35353533372d6769726c2d6f6e2d636f6d70757465722d776974682d696465612e676966"alt="Pythonjulia"/> </p>
 
 - 🔭 I’m currently working on **Statistical Data Analysis using Python**
 
