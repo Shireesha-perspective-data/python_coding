@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shireesha Aellikanti</h1>
 <h3 align="center">Savvy Data Analyst</h3>
+<h3 align="centre">Savvy Python Data Analyst and Machine Learning Practitioner</h3>
 
 - 🔭 I’m currently working on **Statistical Data Analysis using Python**
 
