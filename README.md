@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning**
 
-- 👨‍💻 All of my projects are available at https://github.com/adventureshireesha/adventureshireesha
+- 👨‍💻 All of my projects are available at https://github.com/adventureshireesha/
 
 - 📝 I regularly write code on Data Preprocessing and Structuring Data
 
